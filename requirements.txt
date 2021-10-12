@@ -12,7 +12,7 @@ camelot-py==0.7.3
 pytesseract==0.3.0
 flask==1.0.3
 tqdm==4.36.1
-opencv-python==4.1.1.26
+opencv-python==4.2.0.32
 jupyter==1.0.0               
 jupyter-client==5.2.4               
 jupyter-console==6.0.0               
