@@ -26,7 +26,7 @@ jupyterlab==0.35.3
 jupyterlab-server==0.2.0 
 notebook==5.7.4               
 tornado==4.2.0 
-nbconvert==5.4.0               
+nbconvert==6.5.1               
 nbformat==4.4.0  
 nltk==3.4
 plotly==3.6.1
